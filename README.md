@@ -9,3 +9,6 @@
     <h1>Hello, World!</h1>
 </body>
 </html>
+```html
+<p>This is a paragraph added to the HTML document.</p>
+```
